@@ -4,6 +4,9 @@ iCGuitar (iDoGuitar) es una aplicación comunitaria donde los amantes de la mús
 ## Repositorio aplicación Java:
 https://github.com/aaroonn2004/iCGuitar
 
+## Repositorio aplicación web:
+https://github.com/aaroonn2004/iCGuitar-Web
+
 ## Características Principales:
 
 - **Sube tus soluciones:** Comparte las interpretaciones de tus canciones favoritas con la comunidad.
